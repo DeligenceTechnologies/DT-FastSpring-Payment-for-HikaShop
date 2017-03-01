@@ -7,7 +7,7 @@
         <element>DT_Hikashop_FastSpring_Payment_Plugin</element>
         <version>1.0.0</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/DeligenceTechnologies/DT-Hikashop-FastSpring-Payment-Plugin/blob/master/plg_hikashoppayment_fastspring.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com//DeligenceTechnologies/DT-FastSpring-Payment-for-HikaShop/raw/master/plg_dt_fastspring_payment_for_hikashop.zip</downloadurl>
         </downloads>
         <maintainer>Deligence Technologies</maintainer>
         <maintainerurl>http://www.deligence.com/</maintainerurl>
