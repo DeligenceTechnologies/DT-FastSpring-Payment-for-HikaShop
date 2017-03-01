@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+    <update>
+        <name>DT FastSpring Payment for Hikashop</name>
+        <description>This plugin enables you to setup your FastSpring payment gateway for Hikashop</description>
+        <type>plugin</type>
+        <element>DT_Hikashop_FastSpring_Payment_Plugin</element>
+        <version>1.0.0</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/DeligenceTechnologies/DT-Hikashop-FastSpring-Payment-Plugin/blob/master/plg_hikashoppayment_fastspring.zip</downloadurl>
+        </downloads>
+        <maintainer>Deligence Technologies</maintainer>
+        <maintainerurl>http://www.deligence.com/</maintainerurl>
+        <targetplatform name="joomla" version="3.*"/>
+    </update>
+</updates>
